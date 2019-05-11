@@ -6,5 +6,5 @@ Basic's of springCore
 
 *  `SpringCore_JDBC` 
 
-  Database operation using spring core and JDBC connection.
+  Database operation using spring core and JDBC.
 
