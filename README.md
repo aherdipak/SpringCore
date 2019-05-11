@@ -4,8 +4,7 @@ Basic's of springCore
 
 ## Step wise details
 
-*  `1.First SpringMVC Web Application.md`  : Creating SpringCore Application with JDBC
+*  `SpringCore_JDBC` 
 
-   Example:
-   **springMVC_RequestMapping_RequestParam**
+  Database operation using spring core and JDBC connection.
 
